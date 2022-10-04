@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "567391929787",
+    "project_id": "delevery-boy-shatir-eshop",
+    "storage_bucket": "delevery-boy-shatir-eshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567391929787:android:98ed9cda6efb5c0614309e",
+        "android_client_info": {
+          "package_name": "eshop.shatir.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567391929787-0h8dfsvehr63pvfeu9n4p797pqa2d6up.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eshop.shatir.customer",
+            "certificate_hash": "b583e86936cd8e8a6be8d1059c1b7db824d67aed"
+          }
+        },
+        {
+          "client_id": "567391929787-d8p1lr2f9ge5denl7d20jk3k546893k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6EgaxPT-JcDKriDqvFiDGkaz5HmcVMs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567391929787-d8p1lr2f9ge5denl7d20jk3k546893k1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567391929787-3h0kbhsagno6r129cc11pqid8md7j6ks.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "eshop.shatir.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
